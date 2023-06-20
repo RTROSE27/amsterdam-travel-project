@@ -8,13 +8,13 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6))
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))
     url("../images/canal.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: #0797c0;
   text-align: center;
-  padding: 260px;
+  padding: 200px 0;
 }
 
 header h1 {
