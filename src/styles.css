@@ -49,4 +49,6 @@ header a {
   background: white;
   color: #0797c0;
   padding: 16px 32px;
+  margin-top: 32px;
+  display: inline-block;
 }
