@@ -13,6 +13,7 @@ header {
   background-size: cover;
   color: #0797c0;
   text-align: center;
+  padding: 260px;
 }
 
 header h1 {
@@ -25,7 +26,6 @@ header h2 {
   font-weight: 700;
   font-size: 40px;
   line-height: 1.5;
-  color: white;
 }
 
 header h3 {
