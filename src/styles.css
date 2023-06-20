@@ -1,3 +1,7 @@
+.container {
+  max-width: 1400px;
+}
+
 header {
   background-image: url("../images/canal.png");
   background-repeat: no-repeat;
