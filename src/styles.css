@@ -47,4 +47,6 @@ header a {
   text-transform: uppercase;
   text-decoration: none;
   background: white;
+  color: #0797c0;
+  padding: 16px 32px;
 }
