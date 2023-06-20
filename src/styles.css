@@ -8,8 +8,7 @@ body {
 }
 
 header {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6))
-    url("../images/canal.png");
+  background-image: url("../images/canal.png");
   background-repeat: no-repeat;
   background-size: cover;
   color: #0797c0;
