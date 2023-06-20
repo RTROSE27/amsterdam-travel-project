@@ -45,5 +45,6 @@ header a {
   text-align: center;
   letter-spacing: 3px;
   text-transform: uppercase;
+  text-decoration: none;
   background: white;
 }
