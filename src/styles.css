@@ -158,3 +158,12 @@ footer a {
     font-size: 12px;
   }
 }
+
+.grid {
+  grid-template-columns: 1fr;
+  grid-gap: 32px;
+}
+
+section {
+  padding: 30px;
+}
