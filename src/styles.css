@@ -55,7 +55,12 @@ header a {
   display: inline-block;
 }
 
-@media (max-width: 900px) {
+footer {
+  color: white;
+  background-image: url("../images/amsterdam-tulips.png");
+}
+
+@media (max-width: 960px) {
   header {
     padding: 60px 0;
   }
