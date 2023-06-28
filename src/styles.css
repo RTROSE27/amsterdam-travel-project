@@ -67,6 +67,10 @@ header a {
   display: inline-block;
 }
 
+main {
+  background-color: white;
+}
+
 footer {
   color: white;
   background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)),
