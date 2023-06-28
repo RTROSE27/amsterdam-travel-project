@@ -13,10 +13,6 @@ body {
   grid-gap: 64px;
 }
 
-.img-responsive {
-  max-width: 100%;
-}
-
 .grid-2-columns {
   grid-template-columns: 1fr 1fr;
 }
